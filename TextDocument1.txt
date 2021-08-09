@@ -1,0 +1,1 @@
+added new text document 1 & merging it to git hub repository.
