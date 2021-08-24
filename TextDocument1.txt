@@ -1,2 +1,3 @@
 added new text document 1 & merging it to git hub repository.
 Updating text to understand .git functionality.
+updated text to push to dev branch
